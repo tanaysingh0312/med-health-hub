@@ -1,4 +1,4 @@
-Omni-MedHealth Technical Hub 🏥
+**Omni-MedHealth Technical Hub **
 
 An Integrated Full-Stack Healthcare Platform
 
@@ -6,7 +6,7 @@ Omni-MedHealth is a scalable healthtech platform developed for the IEEE Inter-Co
 
 The platform focuses on streamlining the end-to-end healthcare journey through modular architecture, real-time services, and AI-assisted interactions.
 
-🌟 Key Features
+** Key Features**
 
 Virtual Consultations
 Secure video and audio consultations enabling remote interaction between patients and doctors.
@@ -23,7 +23,7 @@ Unified access to medicine ordering and diagnostic test booking within the platf
 Emergency Services Support
 Real-time emergency coordination with ambulance tracking and rapid response workflows.
 
-🛠️ Technology Stack
+** Technology Stack**
 
 Frontend: React.js — responsive and component-driven user interface
 
@@ -33,16 +33,16 @@ Database: MongoDB — flexible and efficient NoSQL data storage
 
 Architecture: Modular full-stack design for scalability and maintainability
 
-📁 Project Structure
+** Project Structure**
 /frontend    → Client-side application and UI components
 /backend     → Server-side APIs and business logic
 /database    → Database models and configuration
 
-🎯 Project Context
+ **Project Context**
 
 This project was developed as part of the IEEE Inter-College Ideathon 2024, focusing on solving real-world healthcare challenges through technology-driven solutions.
 
-👨‍💻 Author
+** Author**
 
 Tanay Singh
 B.Tech – Computer Science & Engineering
