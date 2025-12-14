@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (PMJAY)",
+    "provider": "Government of India",
+    "schemeType": "Public",
+    "targetAudience": "Economically Weaker Sections",
+    "coverage": "₹5 lakh/family/year",
+    "benefits": "Covers over 1,949 medical packages for secondary and tertiary care.",
+    "premium": "Free"
+  },
+  {
+    "id": 2,
+    "name": "Central Government Health Scheme (CGHS)",
+    "provider": "Ministry of Health & Family Welfare",
+    "schemeType": "Public",
+    "targetAudience": "Central Government Employees",
+    "coverage": "Comprehensive, cashless",
+    "benefits": "OPD, hospitalization, diagnostics, etc.",
+    "premium": "Contribution based on pay scale"
+  },
+  {
+    "id": 3,
+    "name": "Bajaj Allianz Health Guard",
+    "provider": "Bajaj Allianz General Insurance",
+    "schemeType": "Private",
+    "targetAudience": "Individuals & Families",
+    "coverage": "₹1.5 lakh to ₹50 lakh",
+    "benefits": "Cashless hospitalization, ambulance cover, daily cash benefit.",
+    "premium": "Variable"
+  },
+  {
+    "id": 4,
+    "name": "HDFC ERGO Optima Secure",
+    "provider": "HDFC ERGO General Insurance",
+    "schemeType": "Private",
+    "targetAudience": "Individuals & Families",
+    "coverage": "₹5 lakh to ₹2 crore",
+    "benefits": "SECURE benefit, hospitalization, day care, home healthcare.",
+    "premium": "Variable"
+  },
+  {
+    "id": 5,
+    "name": "Arogya Sanjeevani Policy",
+    "provider": "Standardized across all insurers",
+    "schemeType": "Standard",
+    "targetAudience": "All citizens",
+    "coverage": "₹1 lakh to ₹10 lakh",
+    "benefits": "Hospitalization expenses including pre and post.",
+    "premium": "Fixed rates across providers"
+  },
+  {
+    "id": 6,
+    "name": "ECHS",
+    "provider": "Ministry of Defence",
+    "schemeType": "Public",
+    "targetAudience": "Ex-Servicemen & their dependents",
+    "coverage": "Comprehensive, cashless",
+    "benefits": "Covers medical care through polyclinics and empaneled hospitals.",
+    "premium": "Contribution based on rank"
+  },
+  {
+    "id": 7,
+    "name": "Rashtriya Swasthya Bima Yojana (RSBY)",
+    "provider": "Ministry of Labour and Employment",
+    "schemeType": "Public",
+    "targetAudience": "BPL families",
+    "coverage": "₹30,000/family/year",
+    "benefits": "Hospitalisation coverage for 5 members.",
+    "premium": "Free for families below poverty line"
+  },
+  {
+    "id": 8,
+    "name": "Mukhyamantri Amrutam Yojana (Gujarat)",
+    "provider": "Government of Gujarat",
+    "schemeType": "Public",
+    "targetAudience": "Families below poverty line",
+    "coverage": "₹5 lakh/family",
+    "benefits": "Covers serious illnesses and complex procedures.",
+    "premium": "Free"
+  },
+  {
+    "id": 9,
+    "name": "Dr. YSR Aarogyasri Scheme (Andhra Pradesh)",
+    "provider": "Government of Andhra Pradesh",
+    "schemeType": "Public",
+    "targetAudience": "BPL families",
+    "coverage": "Full medical expenses for treatments",
+    "benefits": "Covers treatments for 1,059 diseases.",
+    "premium": "Free"
+  },
+  {
+    "id": 10,
+    "name": "Chief Minister’s Comprehensive Health Insurance Scheme (Tamil Nadu)",
+    "provider": "Government of Tamil Nadu",
+    "schemeType": "Public",
+    "targetAudience": "Eligible families",
+    "coverage": "₹5 lakh/family/year",
+    "benefits": "Covers medical and surgical treatment.",
+    "premium": "Free"
+  },
+  {
+    "id": 11,
+    "name": "Karnataka Arogya Sanjeevani Scheme",
+    "provider": "Government of Karnataka",
+    "schemeType": "Public",
+    "targetAudience": "State government employees & their dependents",
+    "coverage": "Full medical expenses for cashless treatment",
+    "benefits": "Covers a range of illnesses and procedures.",
+    "premium": "Based on pay scale"
+  },
+  {
+    "id": 12,
+    "name": "Star Health Comprehensive",
+    "provider": "Star Health & Allied Insurance",
+    "schemeType": "Private",
+    "targetAudience": "Individuals & Families",
+    "coverage": "₹5 lakh to ₹1 crore",
+    "benefits": "Automatic restoration of sum insured, OPD cover, and second opinion.",
+    "premium": "Variable"
+  },
+  {
+    "id": 13,
+    "name": "ManipalCigna ProHealth",
+    "provider": "ManipalCigna Health Insurance",
+    "schemeType": "Private",
+    "targetAudience": "Individuals & Families",
+    "coverage": "₹2.5 lakh to ₹1 crore",
+    "benefits": "Bonus for no claims, health check-ups, and international coverage.",
+    "premium": "Variable"
+  },
+  {
+    "id": 14,
+    "name": "Care Health Care Freedom",
+    "provider": "Care Health Insurance",
+    "schemeType": "Private",
+    "targetAudience": "Individuals & Senior citizens",
+    "coverage": "₹3 lakh to ₹10 lakh",
+    "benefits": "No medical check-up required up to age 70.",
+    "premium": "Variable"
+  },
+  {
+    "id": 15,
+    "name": "Niva Bupa ReAssure",
+    "provider": "Niva Bupa Health Insurance",
+    "schemeType": "Private",
+    "targetAudience": "Individuals & Families",
+    "coverage": "₹5 lakh to ₹1 crore",
+    "benefits": "ReAssure Benefit, cashless hospitalization, and health check-ups.",
+    "premium": "Variable"
+  },
+  {
+    "id": 16,
+    "name": "HDFC ERGO my:health Suraksha",
+    "provider": "HDFC ERGO General Insurance",
+    "schemeType": "Private",
+    "targetAudience": "Individuals & Families",
+    "coverage": "₹3 lakh to ₹10 lakh",
+    "benefits": "Covers hospitalization, day care procedures, and pre & post-hospitalization costs.",
+    "premium": "Variable"
+  },
+  {
+    "id": 17,
+    "name": "Royal Sundaram Lifeline Classic",
+    "provider": "Royal Sundaram General Insurance",
+    "schemeType": "Private",
+    "targetAudience": "Individuals & Families",
+    "coverage": "₹2 lakh to ₹1 crore",
+    "benefits": "Global coverage for specified illnesses, maternity cover.",
+    "premium": "Variable"
+  },
+  {
+    "id": 18,
+    "name": "Aditya Birla Activ Health Platinum",
+    "provider": "Aditya Birla Health Insurance",
+    "schemeType": "Private",
+    "targetAudience": "Individuals & Families",
+    "coverage": "₹2 lakh to ₹2 crore",
+    "benefits": "HealthReturns benefit, chronic management program.",
+    "premium": "Variable"
+  },
+  {
+    "id": 19,
+    "name": "National Health Insurance Scheme (NHIS) - Nigeria",
+    "provider": "National Health Insurance Authority",
+    "schemeType": "Public",
+    "targetAudience": "Residents of Nigeria",
+    "coverage": "Basic healthcare services",
+    "benefits": "Covers primary and secondary healthcare.",
+    "premium": "Mandatory contribution"
+  },
+  {
+    "id": 20,
+    "name": "Vidal Health",
+    "provider": "Vidal Health Insurance TPA Pvt Ltd",
+    "schemeType": "Private",
+    "targetAudience": "Individuals & Corporates",
+    "coverage": "Varies by policy",
+    "benefits": "Cashless hospitalization, policy administration.",
+    "premium": "Variable"
+  }
+]
