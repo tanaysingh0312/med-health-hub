@@ -34,6 +34,7 @@ Database: MongoDB — flexible and efficient NoSQL data storage
 Architecture: Modular full-stack design for scalability and maintainability
 
 ** Project Structure**
+
 /frontend    → Client-side application and UI components
 /backend     → Server-side APIs and business logic
 /database    → Database models and configuration
